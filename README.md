@@ -1,24 +1,24 @@
 # twig-education-tech-test
 
-##example
+## example
 Run the function against the example code in tech test docuemnt
 ```
 npm run example
 ```
 
-##test
+## test
 Run the function against some test cases
 ```
 npm run test
 ```
 
-##random
+## random
 Run the function against some randomly generated data. This data will change each time you run it.
 ```
-npm run test
+npm run random
 ```
 
-##documentation
+## documentation
 groupArrayElements is document my jsdoc docstrings. Documentation can be compiled by running:
 ```
 npm install
