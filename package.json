@@ -1,0 +1,19 @@
+{
+  "name": "twig-education",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "example": "node example.js",
+    "random": "node random.js",
+    "makedocs": "./node_modules/.bin/jsdoc ./group-array-elements.js -d docs -t ./node_modules/better-docs/"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "better-docs": "^2.3.2",
+    "jsdoc": "^3.6.6"
+  }
+}
